@@ -1,7 +1,6 @@
-# [FAangband](https://github.com/NickMcConnell/FAangband) 2.0.1
+# PathfinderBand
 
-First Age Angband is a variant of [Angband](http://angband.github.io/angband/).
+Forked from: [FAangband](https://github.com/NickMcConnell/FAangband) 2.0.1 - First Age Angband is a variant of [Angband](http://angband.github.io/angband/).
 
-For descriptions, see the main [FAangband web page](http://nickmcconnell.github.io/FAangband/).
 
-For other Angband-related things, see the ladder site (http://angband.oook.cz/).
+I want to take First Age Angband as a starting point, and swap out Races, Classes and Enemies - and maybe more - for Pathfinder 1e content. It will be a difficult task of course, so i have no timeframe. For sure will take years.
